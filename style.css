@@ -1,0 +1,22 @@
+body {background-color: rgb(136, 31, 255);
+}
+
+h1 {text-align: center;
+
+}
+
+h2 {text-align: center;
+}
+
+h2 {background-color: rgb(150, 15, 42);
+}
+
+#ima1 {width: 30%;
+       border-color: rgb(0, 0, 0);
+       border-style: solid;
+       margin-left: 34%;
+}
+h2 {border-color: black;
+    border: 4px;
+    border-style: solid;
+}
